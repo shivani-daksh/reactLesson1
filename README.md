@@ -1,2 +1,3 @@
 29-march-2025 today i am starting the superSimpleDev's react course , the code in this repo is written in his first lecture of react course (react basics).
 here we are learning react with Babel(js compiler).
+30-march-2025 i have completed the exercises of first lecture the last exercise is a bit tricky so you might wanna look at it again. in this exercise we are using setInterval to display the time every second.
